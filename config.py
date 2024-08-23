@@ -7,25 +7,25 @@ from pyrogram import filters
 load_dotenv()
 
 # Get this value from my.telegram.org/apps
-API_ID = int(getenv("API_ID"))
-API_HASH = getenv("API_HASH")
+API_ID = int(getenv("API_ID", "25437222"))
+API_HASH = getenv("API_HASH", "e545c7cad8afacc8f84d8b02e291ef0a")
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN")
+BOT_TOKEN = getenv("BOT_TOKEN", "6967749316:AAEhtBYXPsuFsAgaHY4zGFrgqxJdK_xMsik")
 
 # Get Your bot username
-BOT_USERNAME = getenv("BOT_USERNAME" , "Groovy_music_bot")
+BOT_USERNAME = getenv("BOT_USERNAME", "Groovy_music_bot")
 
 # Don't Add style font 
-BOT_NAME = getenv("BOT_NAME" , "Groovymusic")
+BOT_NAME = getenv("BOT_NAME", "Groovymusic")
 
 # Get your mongo url from cloud.mongodb.com
-MONGO_DB_URI = getenv("MONGO_DB_URI", None)
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://Zeus:stkeditz121@cluster0.oh0nwwf.mongodb.net/?retryWrites=true&w=majority")
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 900))
 
 # Chat id of a group for logging bot's activities
-LOGGER_ID = int(getenv("LOGGER_ID", None))
+LOGGER_ID = int(getenv("LOGGER_ID", -1001757953526))
 
 # Get this value from @BRANDRD_ROBOT on Telegram by /id
 OWNER_ID = int(getenv("OWNER_ID", 1642149912))
@@ -68,7 +68,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 1073741824))
 
 
 # Get your pyrogram v2 session from @StringFatherBot on Telegram
-STRING1 = getenv("STRING_SESSION", None)
+STRING1 = getenv("STRING_SESSION", "BQGEJCYANKnFdw5qAJxE2pA1j0CjA1mPynA9nNCGjWdZm9NBqsn_B3xzB3gGYNOZAzEnRM_fe8giOwLOZsUTK2CzdZSgZEkfrwj3MGa9XgS7V1E-cO6TQPzQp6gvqs5s1AdTD8el639FXERyi0FysgDGkkYqE26KwwLWZgWMzkPG5_iKiWINQVjI12aUD5xMMNC_bPlARAm674-WvxmBV0RFvf5lNCJZsosOwdkxPGrh4sfi60Z5oNLc9zrZ0P-wK4zoWrEEWaYPhoz0b_8UOQINk7lajx02_VRdVt6JiOFuJcSt3vu1dzZ2cIXWq5y81evM9Z2fZ-IDdGXkDWfncFKD-0yzGwAAAAGioN5TAA")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
