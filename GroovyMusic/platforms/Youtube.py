@@ -13,7 +13,7 @@ from GroovyMusic.utils.formatters import time_to_seconds
 
 
 def cookies():
-    cookie_dir = "SONALI/utils/cookies"
+    cookie_dir = "GroovyMusic/cookies"
     cookies_files = [f for f in os.listdir(cookie_dir) if f.endswith(".txt")]
 
     cookie_file = os.path.join(cookie_dir, random.choice(cookies_files))
