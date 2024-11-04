@@ -50,12 +50,12 @@ async def init():
         pass
     await Anony.decorators()
     LOGGER("GroovyMusic").info(
-        "DROP YOUR GIRLFRIEND'S NUMBER AND SEXY PIC TO @Baap_ji_9211 , @groovy_supportt FOR ANY ISSUES"
+        "special thx to @Rajasahab3891 , @TWC_CHATS FOR ANY ISSUES"
     )
     await idle()
     await app.stop()
     await userbot.stop()
-    LOGGER("GroovyMusic").info("Stopping GroovyMusic Music Bot...")
+    LOGGER("panda").info("Stopping panda Music Bot...")
 
 
 if __name__ == "__main__":
