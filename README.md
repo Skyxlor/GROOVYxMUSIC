@@ -5,10 +5,10 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ROCKY-D3V&repo=ROCKY-D3V&theme=flag-india)
 
 [![GIF](https://github.com/Skyxlor/GROOVYxMUSIC/blob/main/Skyxlor.gif)](https://github.com/Skyxlor)
-   [![xᴅ_ɴᴇᴛᴡᴏʀᴋ](https://github-stats-alpha.vercel.app/api?username=Skyxlor "GROOVYxMUSIC")](https://github-stats-alpha.vercel.app/api?username=Skyxlor "GROOVYxMUSIC")
+   [![xᴅ_ɴᴇᴛᴡᴏʀᴋ](https://github-stats-alpha.vercel.app/api?username=Skyxlor "GROOVYxMUSIC")](https://github-stats-alpha.vercel.app/api?username=Skyxlor "PANDABABYMUSIC")
 
 <p align="center">
-  <img src="https://te.legra.ph/file/14b592b31ef473e1e9293.jpg">
+  <img src="https://telegra.ph/file/ac896c41e5512def0f1b6.jpg">
 </p>
 
 
@@ -16,12 +16,12 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Skyxlor/GROOVYxMUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="[https://dashboard.heroku.com/new?template=https://github.com/pamdababy](https://github.com/Skyxlor)"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-[![Contributors](https://contrib.rocks/image?repo=Skyxlor/GROOVYxMUSIC)](https://github.com/Skyxlor/GROOVYxMUSIC/graphs/contributors)
+[![Contributors](virulovespamda)](loveyou)
 
 ### Contact :
-<a href="https://t.me/M3_4_U"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="[https://t.me/M3_4_U]"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
@@ -37,8 +37,8 @@
 </p>
 
 <p align="center">
-<a href="(https://t.me/D3_NETWORK"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="(https://t.me/PandaLovebaby"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 
-- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [𝐒ᴋʏ 𝛘 ℓᴏʀᴅ▼𝐀sᴜʀᴀ™ »𝐝3/ᶜʷʰ](https://github.com/Skyxlor) ғᴏʀ [𝐒ᴋʏ 𝛘 ℓᴏʀᴅ▼𝐀sᴜʀᴀ™ »𝐝3/ᶜʷʰ](https://github.com/Skyxlor/GROOVYxMUSIC) </b>
+- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [𝐒ᴋʏ 𝛘 ℓᴏʀᴅ▼𝐀sᴜʀᴀ™ »𝐝3/ᶜʷʰ](https://t.me/PandaLovebaby) ғᴏʀ [𝐒ᴋʏ 𝛘 ℓᴏʀᴅ▼𝐀sᴜʀᴀ™ »𝐝3/ᶜʷʰ](https://telegra.ph/file/eab21c0c85b39bf441d61.jpg) </b>
